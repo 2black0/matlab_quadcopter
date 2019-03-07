@@ -1,8 +1,8 @@
 # matlab_quadcopter
 Quadcopter Model for Matlab & Octave Simulation
 based on this equation :
-![alt text](https://raw.githubusercontent.com/2black0/matlab_quadcopter/master/quad_equation.png)
-![alt text](https://raw.githubusercontent.com/2black0/matlab_quadcopter/master/control_input.png)
+![alt text](https://raw.githubusercontent.com/2black0/matlab_quadcopter/master/quad_equation.jpg)
+![alt text](https://raw.githubusercontent.com/2black0/matlab_quadcopter/master/control_input.jpg)
 
 Just download all file, and run :
 >quadrun
