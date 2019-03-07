@@ -1,6 +1,6 @@
 # matlab_quadcopter
 Quadcopter Model for Matlab & Octave Simulation
 
-How to run :
+Just download all file, and run :
 >quadrun
 
